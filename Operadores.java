@@ -11,9 +11,9 @@ public class Operadores{
         System.out.print("Ingrese el segundo número: ");
         num2 = scanner.nextInt();
 
-        suma = num1 + num2;
+        suma = num1 * num2;
 
-        System.out.println("La suma de los dos números es: " + suma);
+        System.out.println("La multiplicacion de los dos números es: " + suma);
     
 }
 }
