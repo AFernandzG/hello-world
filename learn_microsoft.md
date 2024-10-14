@@ -1,1 +1,2 @@
-este archivo es parte del curso de microsoft learm introduccion a github
+# este archivo es parte del curso de microsoft learm introduccion a github
+## aprendiendo Markdown
